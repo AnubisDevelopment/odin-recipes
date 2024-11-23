@@ -1,0 +1,24 @@
+
+body{
+    background-color: #152d32;
+}
+
+.hyperlinks {
+    text-decoration: none;
+    color: rgb(206, 215, 221);
+    font-size: 28px;
+    text-align: center;
+    background-color: #0F4539;
+    padding: 20px 50px;
+    display: block;
+    margin: 20px auto;
+}
+
+.title {
+    color: rgb(180, 180, 234);
+    text-align: center;
+}
+.list-contain {
+    text-align: center;
+    list-style-type: none;
+}
